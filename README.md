@@ -9,4 +9,5 @@
 
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipo-exe&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Python Version](https://img.shields.io/badge/python-3.8-blue)
+
