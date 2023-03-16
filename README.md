@@ -5,9 +5,5 @@
 - 💬 Ask me about hydrology and water resources engineering :droplet:
 
 # 
-![Ipo GitHub stats](https://github-readme-stats.vercel.app/api?username=ipo-exe&show_icons=true&theme=radical)
-
-
-#
-![Python Version](https://img.shields.io/badge/python-3.8-blue)
+![Ipo GitHub stats](https://github-readme-stats.vercel.app/api?username=ipo-exe&show_icons=true&theme=dark)
 
