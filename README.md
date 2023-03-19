@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning how to surf waves :surfing_man: (and to code simulation models) 
 - 💬 Ask me about hydrology and water resources engineering :droplet:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=appveyor&logo=Instagram&logoColor=white)](https://www.instagram.com/ipo.news/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iporã-possantti-6769901b6/)
-
 ### some skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,6 +26,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### reach me on:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white)](https://www.instagram.com/ipo.news/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iporã-possantti-6769901b6/)
 
 # 
 ![Ipo GitHub stats](https://github-readme-stats.vercel.app/api?username=ipo-exe&show_icons=true&theme=dark)
