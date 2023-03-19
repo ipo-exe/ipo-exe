@@ -24,10 +24,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### reach me on:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white)](https://www.instagram.com/ipo.news/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iporã-possantti-6769901b6/)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iporã-possantti-6769901b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ipo.news/) 
+[[Research Gate]](https://img.shields.io/badge/%3A-reaserch%20gate-blue)](https://www.researchgate.net/profile/Ipora-Brito-Possantti)
 
 # 
 ![Ipo GitHub stats](https://github-readme-stats.vercel.app/api?username=ipo-exe&show_icons=true&theme=dark)
