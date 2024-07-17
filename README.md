@@ -25,6 +25,12 @@
 
 ### Featured research papers:
 
+> [4] **Equivalent biodiversity area: A novel metric for No Net Loss success in Brazil’s changing biomes**
+> *Glauber da Fontoura, Luis Antonio de Freitas, Tatiana Silva, Iporã Possantti*
+> Journal of Environmental Management, Volume 355, March 2024, 120540
+> https://doi.org/10.1016/j.jenvman.2024.120540
+> Keywords: No Net Loss of biodiversity, Habitat quality, Equivalent biodiversity area, Land use change, Model uncertainty
+
 > [3] **A modelling framework for nature-based solutions expansion planning considering the benefits to downstream urban water users**
 > *Iporã Possantti, Guilherme Marques*
 > Environmental Modelling & Software, Volume 152,2022,105381,ISSN 1364-8152
