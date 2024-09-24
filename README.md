@@ -26,7 +26,7 @@
 ### Featured research papers:
 
 > [5] **An integrated hydro-finance approach towards sustainable urban stormwater and flood control management**
-> *Glauber da Fontoura, Luis Antonio de Freitas, Tatiana Silva, Iporã Possantti*
+> *Marques, G; Possantti, I; Dalcin, AP; Daiello, J; Gonzalez, I; Todeschini, F; Goldenfum, J*
 > Journal of Cleaner Production, Volume 470, August 2024, 143364
 > https://doi.org/10.1016/j.jclepro.2024.143364
 > Keywords: Urban stormwater management, Hydrologic externality index, Stormwater fee
