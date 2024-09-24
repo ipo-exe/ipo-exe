@@ -25,6 +25,12 @@
 
 ### Featured research papers:
 
+> [5] **An integrated hydro-finance approach towards sustainable urban stormwater and flood control management**
+> *Glauber da Fontoura, Luis Antonio de Freitas, Tatiana Silva, Iporã Possantti*
+> Journal of Cleaner Production, Volume 470, August 2024, 143364
+> https://doi.org/10.1016/j.jclepro.2024.143364
+> Keywords: Urban stormwater management, Hydrologic externality index, Stormwater fee
+
 > [4] **Equivalent biodiversity area: A novel metric for No Net Loss success in Brazil’s changing biomes**
 > *Glauber da Fontoura, Luis Antonio de Freitas, Tatiana Silva, Iporã Possantti*
 > Journal of Environmental Management, Volume 355, March 2024, 120540
